@@ -17,5 +17,12 @@
   "bugs": {
     "url": "https://github.com/NateR124/gpt-proxy-server/issues"
   },
-  "homepage": "https://github.com/NateR124/gpt-proxy-server#readme"
+  "homepage": "https://github.com/NateR124/gpt-proxy-server#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "serverless-http": "^3.2.0"
+  },
+  "devDependencies": {
+    "netlify-cli": "^20.1.1"
+  }
 }
